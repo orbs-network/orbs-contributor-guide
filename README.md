@@ -15,3 +15,11 @@
 * [The Orbs Position Paper](https://orbs.com/orbs-position-paper)
 
   > This is our guide. It's long but important. Read this 4 times with at least a few days in between until it all sinks in.
+
+#### Diving deeper to blockchain in general
+
+* TODO
+
+#### Diviing deeper into Orbs
+
+* [Helix Consensus White Paper - Ordering Service](https://orbs.com/helix-consensus-white-paper)
