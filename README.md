@@ -20,6 +20,6 @@
 
 * TODO
 
-#### Diviing deeper into Orbs
+#### Diving deeper into Orbs
 
 * [Helix Consensus White Paper - Ordering Service](https://orbs.com/helix-consensus-white-paper)
